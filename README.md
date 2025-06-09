@@ -12,9 +12,3 @@ I'm a front-end developer passionate about crafting modern, high-performance, an
 - **Tooling**: Vite, Git, Figma
 - **Testing**: Jest, Vitest  
 - **Others**: Node.js, REST APIs, CI/CD, SEO  
-
----
-
-## 📊 GitHub Stats
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizboaventura1&layout=compact&langs_count=8&theme=onedark" />
