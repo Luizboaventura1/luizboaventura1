@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 >Luiz Henrique</h1>
+<h4 >Front-end Developer</h4>
 
-<!--
-**Luizboaventura1/luizboaventura1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧑‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a front-end developer passionate about crafting modern, high-performance, and user-focused web applications. I enjoy building creative solutions to complex problems and transforming ideas into polished, accessible interfaces. My approach emphasizes simplicity, usability, and code quality.
+
+---
+
+## 🛠️ Technologies & Tools
+
+- **Languages**: JavaScript, TypeScript, HTML, CSS  
+- **Frameworks**: React, Vue.js, Next.js, Tailwind CSS  
+- **Tooling**: Vite, Git, Figma
+- **Testing**: Jest, Vitest  
+- **Others**: Node.js, REST APIs, CI/CD, SEO  
+
+---
+
+## 📊 GitHub Stats
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizboaventura1&layout=compact&langs_count=8&theme=onedark" />
